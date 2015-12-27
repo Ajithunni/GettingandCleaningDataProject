@@ -8,4 +8,4 @@
 
 1. Clone this repositary
 2. source run_analisys.R script
-3. The output would be the Tiday dataset
+3. The output would be the Tidy dataset
